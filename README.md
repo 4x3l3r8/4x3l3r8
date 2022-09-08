@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Daniel <img height="40" src="https://emoji.gg/assets/emoji/6073-pepe-wave.gif" /></h1>
 <h3 align="right"> Welcome to my domain 🐱‍👤</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+black&color=%231E7E16&size=36&center=true&vCenter=true&width=623&lines=I'm+a+blooming+Developer%F0%9F%98%8C...+;I'm+a+crazy+anime+otaku;I+love+music)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+black&color=%231E7E16&size=36&center=true&vCenter=true&width=623&lines=I'm+a+blooming+Developer%F0%9F%98%8C...+;I'm+a+crazy+anime+otaku;I+love+music)](https://git.io/typing-svg) -->
 
 ### User <img src="https://profile-counter.glitch.me/4x3l3r8/count.svg">
 
 
-- 🔭 I’m currently working on a flight-booking web application for checking and scheduling flights with constant communication between customers and the agency
+- 🔭 I’m currently working on a social media-like application(for learning purpose)-ChapChap.
 
 ## Tech Stack
 
