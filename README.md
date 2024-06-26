@@ -18,14 +18,14 @@
 ![](https://img.shields.io/badge/NodeJs-000000?style=for-the-badge&logo=node.js&logoColor=00ee00)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-! yes, I know. I love PHP 
 
 ## - 🌱 I’m currently learning ...
 
-![](https://img.shields.io/badge/Laravel-00000?style=for-the-badge&logo=laravel&logoColor=E34F26)
+![](https://img.shields.io/badge/VueJS-000000?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ## - 👀 I’m interested in ...
 
+- JavaScript
 - Python 🐍
 - IOT
 - Game Dev(C#)
@@ -35,7 +35,7 @@
 
 ## - 💞️ I’m looking to collaborate on ...
 
-Anything that can get my hands extremely dirty and build my experience.
+Anything that can get my hands extremely dirty and disrupt spaces.
 
 
 ## - 📫 How to reach me ...
